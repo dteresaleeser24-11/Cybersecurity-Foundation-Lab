@@ -14,8 +14,8 @@
 
 ## Network Configuration
 
-- **Kali Linux IP:** 192.168.56.1
-- **Metasploitable2 IP:** 192.168.56.101
+- **Kali Linux IP:** 192.168.xx.xxx
+- **Metasploitable2 IP:** 192.168.xx.xxx
 - **Network Type:** Host-Only Network
 
 ## Progress
